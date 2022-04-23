@@ -60,4 +60,4 @@ Step 5 : Use Redux State using `useSelector` and actions using `useDispatch` in 
         dispatch(counterSlice.actions.increment());
     }
 ```
-Refrence : [react-redux.js.org](https://react-redux.js.org/tutorials/quick-start)
+Reference : [react-redux.js.org](https://react-redux.js.org/tutorials/quick-start)
